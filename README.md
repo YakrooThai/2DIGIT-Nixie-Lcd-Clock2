@@ -3,6 +3,9 @@ Nixie clock minimal
 
 https://www.youtube.com/shorts/tcktSF1V-FA
 
+https://www.youtube.com/shorts/AduQbeZkW5Y
+
+https://www.youtube.com/shorts/8NqjTxbxtuA
 
 ![nix1](https://github.com/YakrooThai/2DIGIT-Nixie-Lcd-Clock2/assets/56666070/368ebfb0-9704-4f70-8ec6-462eedcf8f9b)
 
