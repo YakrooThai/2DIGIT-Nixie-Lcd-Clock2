@@ -1,5 +1,9 @@
 # 2DIGIT-Nixie-Lcd-Clock2
 Nixie clock minimal
+![20240111_105328](https://github.com/YakrooThai/2DIGIT-Nixie-Lcd-Clock2/assets/56666070/0f41a8cf-bbe5-476f-b309-3f00eec06b5f)
+
+https://www.youtube.com/shorts/pL8Qth9jTFM
+
 
 https://www.youtube.com/shorts/tcktSF1V-FA
 
