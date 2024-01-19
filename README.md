@@ -3,6 +3,7 @@ Nixie clock minimal
 
 ![417569788_748304906774541_43469537831346413_n](https://github.com/YakrooThai/2DIGIT-Nixie-Lcd-Clock2/assets/56666070/da93b2b8-b47e-4360-ad54-ed73680ccde0)
 
+https://www.youtube.com/watch?v=mM42SiP05js&t=38s
 
 Presenting a self-made 2-digit LCD clock project with a distinctive and exciting Nixie Tube-inspired display. 
 This project encompasses both hardware and software, showcasing the creator's focus on customizing the clock for user convenience.
