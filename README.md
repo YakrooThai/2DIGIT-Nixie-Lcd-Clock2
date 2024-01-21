@@ -27,12 +27,13 @@ https://www.youtube.com/shorts/8NqjTxbxtuA
 
 ![20230818_230423](https://github.com/YakrooThai/2DIGIT-Nixie-Lcd-Clock2/assets/56666070/2b167c62-d693-4385-96fb-0c38ddb617f5)
 
+PCB ORDER:
+
+ https://www.pcbway.com/project/shareproject/2_DIGIT_Nixie_Lcd_Clock_4662b800.html
+
+
 You can contact
 
-E-mail: mhooyang@gmail.com
-
 Please follow my YouTube channel. Still a newbie to make a YouTube channel.
-
 Just press Subscribe my youtube channel. Thankyou
-
 https://www.youtube.com/@Yakroo108  < ===== ( -/|\-) 
