@@ -5,6 +5,7 @@ Nixie clock minimal
 
 ![Untitled (11)](https://github.com/YakrooThai/2DIGIT-Nixie-Lcd-Clock2/assets/56666070/5902e26c-1eba-4914-8266-3a75b2cba123)
 
+https://www.youtube.com/watch?v=Gj0Xf3ne51Q
 
 https://www.youtube.com/watch?v=mM42SiP05js&t=38s
 
